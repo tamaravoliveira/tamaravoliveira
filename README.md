@@ -5,7 +5,7 @@
 
 ##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaravoliveira&show_icons=true&bg_color=212121&title_color=DD2B3D&text_color=FFF&icon_color=F03F5D) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaravoliveira&layout=compact&&bg_color=212121&title_color=DD2B3D&text_color=FFF&icon_color=F03F5D&)](https://github.com/tamaravoliveira/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamaravoliveira&show_icons=true&bg_color=181F2F&title_color=F03F5D&text_color=FFF&icon_color=F03F5D) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamaravoliveira&layout=compact&&bg_color=181F2F&title_color=F03F5D&text_color=FFF&icon_color=F03F5D&)](https://github.com/tamaravoliveira/github-readme-stats)
 
 ##
 
