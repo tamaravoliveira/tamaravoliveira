@@ -22,5 +22,4 @@
 
 ##
 
-
-          
+![snake gif](https://github.com/tamaravoliveira/tamaravoliveira/blob/output/github-contribution-grid-snake.svg)
