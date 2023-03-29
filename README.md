@@ -1,7 +1,6 @@
 ### Hello World! ☕
 
 - 🖥️ I work as a Software Developer (Front-End)
-- 📷 My Instagram: instagram.com/itsmetamarav
 
 ##
 
