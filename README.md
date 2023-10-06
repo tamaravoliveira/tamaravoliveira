@@ -6,8 +6,6 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=tamaravoliveira&theme=radical&mode=weekly" />
 </div>
  
- &nbsp;
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Contacts:
